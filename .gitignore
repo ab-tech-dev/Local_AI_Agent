@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.pytest_cache/
+.coverage
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project-specific
+chrome_langchain_db/
+models/
+*.bin
+*.pth
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
